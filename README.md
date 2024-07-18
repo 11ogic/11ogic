@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I’m @11ogic.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h2>
+<h2 align="center">👋 Hi, I’m @11ogic.</h2>
 
 ![MacOS](https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=Apple)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-e95420?style=flat-square&logo=ubuntu&logoColor=white)
